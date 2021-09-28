@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors
-A Rock paper scissors game developed using Mediapipe framework and Image processing techniques, along with PyQT5 as Graphical User Interface. Have fun!
+A Rock paper scissors game developed using Mediapipe framework and Image processing techniques, along with PyQT5 as Graphical User Interface. Have fun!  
+  
+(Click in the image below for a demo clip)
   
 <a href="https://youtu.be/FHiklPxEPu0"><img src="images/thumbnail.png"></a>
 ### Install required Python libraries & packages
