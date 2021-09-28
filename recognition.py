@@ -25,7 +25,7 @@ def search_point(pts_list, cord, target):
 
 def landmark_recognition():
 
-    camera_id = 1
+    camera_id = 0
 
     capture = cv2.VideoCapture(camera_id)
 
